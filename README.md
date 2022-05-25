@@ -19,16 +19,20 @@ ServiceAPI - For API requst / respons and DataModel.
 
 ReqresAPI_Test contains :
 
-BaseTest class
+BaseTest class.
+
 Tests class with 4 tests code .
 
 TestData.json - Test configuration Data . 
+
 ConfigurationHelper class. 
 
 App.conf
 
 ServiceAPI contains:
 
-DataModel Classes
-reqresAPI class for sending requests
-Response class for parsing response message 
+DataModel Classes.
+
+reqresAPI class for sending requests.
+
+Response class for parsing response message .
