@@ -10,8 +10,11 @@ Based on Nunit test framework.
 #To Compile Project:
 
 1.Get repository to local machine.
+
 2.Open solution in VS 2022 .
+
 3.Build the Project. 
+
 4.In Test Explorer run Test. 
 
 #Solution Devided to two projects :
