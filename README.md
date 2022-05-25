@@ -9,7 +9,7 @@ Based on Nunit test framework.
 
 #HowTo Get and Build Project:
 
-1.Get repository to local machine.
+1.Clone repository to local machine.
 
 2.Open solution in VS 2022 .
 
