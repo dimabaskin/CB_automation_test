@@ -7,7 +7,7 @@ Solution is a small framework for API Testing Examples on website - https://reqr
 This project was created on VS 2022 Community .
 Based on Nunit test framework.
 
-#To Compile Project:
+#HowTo Get and Build Project:
 
 1.Get repository to local machine.
 
