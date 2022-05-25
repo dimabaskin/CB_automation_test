@@ -1,0 +1,25 @@
+{
+  "User": {
+    "FirstName": "Tracey",
+    "LastName": "Ramos"
+  },
+  "total_Users": 12,
+  "User10": {
+    "id": 10,
+    "email": "byron.fields@reqres.in",
+    "first_name": "Byron",
+    "last_name": "Fields",
+    "avatar": "https://reqres.in/img/faces/10-image.jpg"
+  },
+  "User02": {
+    "id": 2,
+    "email": "janet.weaver@reqres.in",
+    "first_name": "Janet",
+    "last_name": "Weaver",
+    "avatar": "https://reqres.in/img/faces/2-image.jpg"
+  },
+  "support": {
+    "url": "https://reqres.in/#support-heading",
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
